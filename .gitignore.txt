@@ -1,2 +1,3 @@
 desktop.ini
-Pasta para ser ignorada
+Pasta\ para \ser \ignorada/
+Pasta para ser ignorada/ 
